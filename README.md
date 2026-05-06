@@ -8,7 +8,7 @@
 *Требования к результату*
 *Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»*
 
-![Задание1] (https://github.com/DefAKAAlex/zabbix2/blob/main/img/task1.png)
+![Задание1](https://github.com/DefAKAAlex/zabbix2/blob/main/img/task1.png)
 
 ## Задание 2
 *Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.*
